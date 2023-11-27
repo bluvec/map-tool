@@ -1,0 +1,10 @@
+# server config
+port: ":8080"
+url: "http://localhost" 
+googlemp: "https://mp.lizhengtech.com"
+googlems: "https://ms.lizhengtech.com"
+gaodeimg: "http://webst01.is.autonavi.com"
+gaodeano: "http://wprd01.is.autonavi.com"
+language: "en"
+
+
